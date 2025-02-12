@@ -5,5 +5,5 @@ print(type(list))
 # [x]=input("enter chractor:")
 x=["sanja"]
 print(type(x))
-# print(x)
+print(x)
 print(x[1:1:-1])
